@@ -1,0 +1,15 @@
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.AssemblyInfoInputs.cache
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.AssemblyInfo.cs
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.csproj.CoreCompileInputs.cache
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.sourcelink.json
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\bin\Debug\net8.0\BVI.exe
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\bin\Debug\net8.0\BVI.deps.json
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\bin\Debug\net8.0\BVI.runtimeconfig.json
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\bin\Debug\net8.0\BVI.dll
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\bin\Debug\net8.0\BVI.pdb
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.dll
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\refint\BVI.dll
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.pdb
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\BVI.genruntimeconfig.cache
+Y:\GitHub\Linguagem-de-Programa-o-2\Revisao\BVI\BVI\obj\Debug\net8.0\ref\BVI.dll
