@@ -1,0 +1,15 @@
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.AssemblyInfoInputs.cache
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.AssemblyInfo.cs
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.csproj.CoreCompileInputs.cache
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.sourcelink.json
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\bin\Debug\net9.0\JogoMonstros.exe
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\bin\Debug\net9.0\JogoMonstros.deps.json
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\bin\Debug\net9.0\JogoMonstros.runtimeconfig.json
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\bin\Debug\net9.0\JogoMonstros.dll
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\bin\Debug\net9.0\JogoMonstros.pdb
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.dll
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\refint\JogoMonstros.dll
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.pdb
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\JogoMonstros.genruntimeconfig.cache
+C:\Users\bruno.machado\Documents\GitHub\Linguagem-de-Programa-o-2\Revisao\JogoMonstros\JogoMonstros\obj\Debug\net9.0\ref\JogoMonstros.dll
