@@ -86,5 +86,7 @@ namespace JogoMonstros
                 }
             }
         }
+
+        abstract public void Atacar(Monstro alvo);
     }
 }

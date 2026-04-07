@@ -1,12 +1,13 @@
 namespace JogoMonstros
 {
-    public class Agua : Monstro
+    public class Terra : Monstro
     {
         public override void Atacar(Monstro alvo)
         {
             if(alvo is Agua)
             {
-                throw new Exception("Ataque sem efeito");
+                int dano = 3 * this.ATK - alvo.DEF;
+                alvo.Forca -= dano;
             }
             else if(alvo is Fogo)
             {
@@ -15,7 +16,7 @@ namespace JogoMonstros
             }
             else if(alvo is Terra)
             {
-                int dano = this.ATK - 2 * alvo.DEF;
+                int dano = this.ATK -  4 * alvo.DEF;
                 alvo.Forca -= dano;
             }
             else
