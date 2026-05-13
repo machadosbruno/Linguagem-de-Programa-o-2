@@ -1,0 +1,5 @@
+Y:\Linguagem-de-Programa-o-2\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\Processamento.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Linguagem-de-Programa-o-2\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\Processamento.AssemblyInfoInputs.cache
+Y:\Linguagem-de-Programa-o-2\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\Processamento.AssemblyInfo.cs
+Y:\Linguagem-de-Programa-o-2\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\Processamento.csproj.CoreCompileInputs.cache
+Y:\Linguagem-de-Programa-o-2\WinFormsApp1\ConsoleApp1\obj\Debug\net8.0\Processamento.sourcelink.json
