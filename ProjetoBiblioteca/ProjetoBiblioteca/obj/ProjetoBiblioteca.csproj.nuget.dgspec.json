@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj": {}
+    "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj": {}
   },
   "projects": {
-    "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj": {
+    "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+        "projectUniqueName": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
         "projectName": "ProjetoBiblioteca",
-        "projectPath": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
+        "projectPath": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\ProjetoBiblioteca.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\obj\\",
+        "outputPath": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

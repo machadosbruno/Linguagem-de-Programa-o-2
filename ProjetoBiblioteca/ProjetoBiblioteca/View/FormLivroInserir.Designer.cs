@@ -28,83 +28,97 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dtpDataPublicacao = new DateTimePicker();
-            lblNome = new Label();
+            components = new System.ComponentModel.Container();
+            label1 = new Label();
             txtTitulo = new TextBox();
-            lblDataPublicacao = new Label();
-            btnSalvar = new Button();
+            label2 = new Label();
+            dtpDataPublicacao = new DateTimePicker();
+            button1 = new Button();
+            errorProvider1 = new ErrorProvider(components);
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
             SuspendLayout();
             // 
-            // dtpDataPublicacao
+            // label1
             // 
-            dtpDataPublicacao.CustomFormat = "dd/MM/yyyy";
-            dtpDataPublicacao.Format = DateTimePickerFormat.Custom;
-            dtpDataPublicacao.ImeMode = ImeMode.NoControl;
-            dtpDataPublicacao.Location = new Point(47, 123);
-            dtpDataPublicacao.Name = "dtpDataPublicacao";
-            dtpDataPublicacao.Size = new Size(268, 23);
-            dtpDataPublicacao.TabIndex = 4;
-            dtpDataPublicacao.Value = new DateTime(2026, 5, 19, 0, 0, 0, 0);
-            // 
-            // lblNome
-            // 
-            lblNome.AutoSize = true;
-            lblNome.Location = new Point(47, 50);
-            lblNome.Name = "lblNome";
-            lblNome.Size = new Size(37, 15);
-            lblNome.TabIndex = 0;
-            lblNome.Text = "Título";
+            label1.AutoSize = true;
+            label1.Location = new Point(12, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(65, 30);
+            label1.TabIndex = 0;
+            label1.Text = "Tìtulo";
             // 
             // txtTitulo
             // 
-            txtTitulo.Location = new Point(47, 68);
-            txtTitulo.MaxLength = 100;
+            txtTitulo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            txtTitulo.Location = new Point(12, 42);
+            txtTitulo.MaxLength = 101;
             txtTitulo.Name = "txtTitulo";
-            txtTitulo.Size = new Size(268, 23);
+            txtTitulo.Size = new Size(501, 35);
             txtTitulo.TabIndex = 1;
             // 
-            // lblDataPublicacao
+            // label2
             // 
-            lblDataPublicacao.AutoSize = true;
-            lblDataPublicacao.Location = new Point(47, 105);
-            lblDataPublicacao.Name = "lblDataPublicacao";
-            lblDataPublicacao.Size = new Size(102, 15);
-            lblDataPublicacao.TabIndex = 2;
-            lblDataPublicacao.Text = "lblDataPublicacao";
+            label2.AutoSize = true;
+            label2.Location = new Point(12, 80);
+            label2.Name = "label2";
+            label2.Size = new Size(192, 30);
+            label2.TabIndex = 2;
+            label2.Text = "Data de publicação";
             // 
-            // btnSalvar
+            // dtpDataPublicacao
             // 
-            btnSalvar.Location = new Point(240, 152);
-            btnSalvar.Name = "btnSalvar";
-            btnSalvar.Size = new Size(75, 23);
-            btnSalvar.TabIndex = 5;
-            btnSalvar.Text = "Salvar";
-            btnSalvar.UseVisualStyleBackColor = true;
-            btnSalvar.Click += button1_Click;
+            dtpDataPublicacao.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            dtpDataPublicacao.Format = DateTimePickerFormat.Short;
+            dtpDataPublicacao.Location = new Point(12, 113);
+            dtpDataPublicacao.Name = "dtpDataPublicacao";
+            dtpDataPublicacao.Size = new Size(501, 35);
+            dtpDataPublicacao.TabIndex = 3;
+            // 
+            // button1
+            // 
+            button1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            button1.Location = new Point(376, 154);
+            button1.Name = "button1";
+            button1.Size = new Size(137, 40);
+            button1.TabIndex = 4;
+            button1.Text = "Salvar";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // errorProvider1
+            // 
+            errorProvider1.BlinkStyle = ErrorBlinkStyle.NeverBlink;
+            errorProvider1.ContainerControl = this;
             // 
             // FormLivroInserir
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(12F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(372, 202);
-            Controls.Add(btnSalvar);
+            ClientSize = new Size(538, 203);
+            Controls.Add(button1);
             Controls.Add(dtpDataPublicacao);
-            Controls.Add(lblDataPublicacao);
+            Controls.Add(label2);
             Controls.Add(txtTitulo);
-            Controls.Add(lblNome);
+            Controls.Add(label1);
+            Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            Margin = new Padding(5, 6, 5, 6);
+            MinimumSize = new Size(554, 242);
             Name = "FormLivroInserir";
-            Text = "Novo livro";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Novo Livro";
             Load += FormLivroInserir_Load;
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Label lblNome;
+        private Label label1;
         private TextBox txtTitulo;
-        private Label lblDataPublicacao;
+        private Label label2;
         private DateTimePicker dtpDataPublicacao;
-        private Button btnSalvar;
+        private Button button1;
+        private ErrorProvider errorProvider1;
     }
 }

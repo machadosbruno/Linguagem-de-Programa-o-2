@@ -4,13 +4,11 @@
     <Compile Update="View\FormLivroInserir.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\FormLivroPesquisar.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Update="View\FormLivroInserir.resx">
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
   </ItemGroup>
 </Project>

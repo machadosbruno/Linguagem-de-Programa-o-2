@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\",
+  "WorkspaceRootPath": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\data\\livrodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\data\\livrodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\dao\\livrosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\dao\\livrosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\utils\\mensagenserro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\utils\\mensagenserro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivroinserir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivroinserir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\github\\linguagem-de-programa-o-2\\projetobiblioteca\\projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DD8C5B-2527-4B04-951A-DCAF2179A8B8}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MensagensErro.cs",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Utils\\MensagensErro.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Utils\\MensagensErro.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Utils\\MensagensErro.cs",
-              "RelativeToolTip": "ProjetoBiblioteca\\Utils\\MensagensErro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T00:03:11.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LivrosDAO.cs",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\DAO\\LivrosDAO.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\DAO\\LivrosDAO.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\DAO\\LivrosDAO.cs",
-              "RelativeToolTip": "ProjetoBiblioteca\\DAO\\LivrosDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T23:24:57.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LivroController.cs",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controller\\LivroController.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controller\\LivroController.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controller\\LivroController.cs*",
-              "RelativeToolTip": "ProjetoBiblioteca\\Controller\\LivroController.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T23:03:52.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormLivroInserir.cs",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs*",
-              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDYAAABAAAAAAAAAAA==",
+              "Title": "LivroDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T22:49:44.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormLivroInserir.Designer.cs",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
-              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T22:40:49.494Z",
+              "WhenOpened": "2026-05-26T23:16:43.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormPrincipal.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormPrincipal.cs",
-              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormPrincipal.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBYAAAAqAAAAAAAAAA==",
+              "Title": "FormLivroInserir.cs [Projeto]",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs [Projeto]",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T22:40:00.336Z",
+              "WhenOpened": "2026-05-26T22:56:00.455Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T22:47:14.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormPrincipal.cs [Projeto]",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormPrincipal.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormPrincipal.cs [Projeto]",
-              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormPrincipal.cs [Projeto]",
+              "DocumentIndex": 2,
+              "Title": "FormLivroPesquisar.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA8wC8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T22:39:22.834Z",
+              "WhenOpened": "2026-05-26T22:46:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLivroInserir.Designer.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:02:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLivroPesquisar.cs [Projeto]",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs [Projeto]",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T23:02:54.307Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormLivroInserir.cs [Projeto]",
-              "DocumentMoniker": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "DocumentIndex": 6,
+              "Title": "FormLivroInserir.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
               "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
-              "ToolTip": "Y:\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs [Projeto]*",
-              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.cs [Projeto]*",
+              "ToolTip": "Y:\\GitHub\\Linguagem-de-Programa-o-2\\ProjetoBiblioteca\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T22:37:21.565Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-05-26T22:56:49.234Z",
+              "EditorCaption": ""
             }
           ]
         }

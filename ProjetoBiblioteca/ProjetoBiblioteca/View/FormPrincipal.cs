@@ -17,10 +17,14 @@ namespace ProjetoBiblioteca.View
             InitializeComponent();
         }
 
-        private void btnInserirLivro_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            FormLivroInserir formLivroInserir = new FormLivroInserir();
-            formLivroInserir.ShowDialog();
+            new FormLivroInserir().ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            new FormLivroPesquisar().ShowDialog();
         }
     }
 }

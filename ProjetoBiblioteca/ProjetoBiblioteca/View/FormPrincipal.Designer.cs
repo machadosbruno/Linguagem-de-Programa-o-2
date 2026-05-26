@@ -28,32 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            btnInserirLivro = new Button();
+            button2 = new Button();
+            label1 = new Label();
             SuspendLayout();
             // 
-            // btnInserirLivro
+            // button2
             // 
-            btnInserirLivro.Location = new Point(392, 197);
-            btnInserirLivro.Name = "btnInserirLivro";
-            btnInserirLivro.Size = new Size(75, 23);
-            btnInserirLivro.TabIndex = 0;
-            btnInserirLivro.Text = "Inserir Livro";
-            btnInserirLivro.UseVisualStyleBackColor = true;
-            btnInserirLivro.Click += btnInserirLivro_Click;
+            button2.Location = new Point(371, 125);
+            button2.Name = "button2";
+            button2.Size = new Size(137, 68);
+            button2.TabIndex = 1;
+            button2.Text = "Pesquisar livros";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.ForeColor = Color.Red;
+            label1.Location = new Point(363, 278);
+            label1.Name = "label1";
+            label1.Size = new Size(145, 15);
+            label1.TabIndex = 2;
+            label1.Text = "Próximo passo: filtrar livro";
             // 
             // FormPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(btnInserirLivro);
+            Controls.Add(label1);
+            Controls.Add(button2);
             Name = "FormPrincipal";
             Text = "FormPrincipal";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
-
-        private Button btnInserirLivro;
+        private Button button2;
+        private Label label1;
     }
 }

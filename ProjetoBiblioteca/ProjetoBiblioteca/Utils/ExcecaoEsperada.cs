@@ -8,8 +8,8 @@ namespace ProjetoBiblioteca.Utils
 {
     internal class ExcecaoEsperada : Exception
     {
-        public ExcecaoEsperada(string mensagem) : base()
-        { 
+        public ExcecaoEsperada(string mensagem) : base(mensagem)
+        {
             
         }
     }

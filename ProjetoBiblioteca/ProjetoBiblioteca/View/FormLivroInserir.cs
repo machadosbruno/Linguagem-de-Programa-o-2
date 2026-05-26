@@ -1,7 +1,6 @@
 ﻿using ProjetoBiblioteca.Controller;
 using ProjetoBiblioteca.Model;
 using ProjetoBiblioteca.Utils;
-using ProjetoBiblioteca.Utils.MensagensErro;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,56 +15,57 @@ namespace ProjetoBiblioteca.View
 {
     public partial class FormLivroInserir : Form
     {
-        private ErrorProvider errorProvider1 = new ErrorProvider();
         public FormLivroInserir()
         {
             InitializeComponent();
         }
-
+        public bool salvou = false;
         private void button1_Click(object sender, EventArgs e)
         {
             errorProvider1.Clear();
-            string tituloLivro = txtTitulo.Text;
-            DateTime dataPublicaco = dtpDataPublicacao.Value;
 
-            if (tituloLivro == "")
-            {
-                errorProvider1.SetError(txtTitulo, MensagensErro.TituloInvalido);
-            }
+            string titulo = txtTitulo.Text.Trim();
+            DateTime dataPublicacao = dtpDataPublicacao.Value;
 
-            if(tituloLivro.Length > 100)
-            {
-                errorProvider1.SetError(txtTitulo, MensagensErro.TituloTamanhoMaximo);
-            }
+            if (titulo == "")
+                errorProvider1.SetError(txtTitulo, Utils.MensagensErro.Livro.Titulo_Obrigatorio);
 
-            if (dataPublicaco > DateTime.Now)
-            {
-                errorProvider1.SetError(dtpDataPublicacao, MensagensErro.DataPublicacaoMaxima);
-            }
+            if(titulo.Length > 100)
+                errorProvider1.SetError(txtTitulo, Utils.MensagensErro.Livro.Titulo_Comprimento);
 
-            if (!errorProvider1.HasErrors)
+            if (dataPublicacao.Date > DateTime.Today)
+                errorProvider1.SetError(dtpDataPublicacao, Utils.MensagensErro.Livro.DataPublicacao_Maximo);
+
+            if(!errorProvider1.HasErrors)
             {
                 Livro livro = new Livro
                 {
-                    Titulo = tituloLivro,
-                    DataPublicacao = dataPublicaco
+                    Titulo = titulo,
+                    DataPublicacao = dataPublicacao
                 };
+
                 try
                 {
                     LivroController.Salvar(livro);
-                    MessageBox.Show("Livro Salvo com sucesso!");
+                    MessageBox.Show("Livro salvo com sucesso", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    salvou = true;
                     Close();
                 }
-                catch (ExcecaoEsperada ex) {
-                    MessageBox.Show(Geral.ErroGeral, "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                catch(ExcecaoEsperada ex)
+                {
+                    MessageBox.Show(ex.Message, "", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-
+                catch(Exception ex)
+                {
+                    //log ex
+                    MessageBox.Show(Utils.MensagensErro.Geral.Erro_Geral, "", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 
         private void FormLivroInserir_Load(object sender, EventArgs e)
         {
-            dtpDataPublicacao.MaxDate = DateTime.Today;
+            dtpDataPublicacao.MaxDate = DateTime.Now;
         }
     }
 }
