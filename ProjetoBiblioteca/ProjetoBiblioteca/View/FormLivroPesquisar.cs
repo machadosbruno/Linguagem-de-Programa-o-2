@@ -39,16 +39,23 @@ namespace ProjetoBiblioteca.View
 
         private void recortarToolStripButton_Click(object sender, EventArgs e)
         {
-            if(dataGridView1.SelectedRows.Count > 0)
+            if (dataGridView1.SelectedRows.Count > 0)
             {
                 Livro livro = (Livro)dataGridView1.SelectedRows[0].DataBoundItem;
-                DialogResult confirma = MessageBox.Show("Você realmente quer excluir o livro "+ livro.Titulo +"?", "", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+                DialogResult confirma = MessageBox.Show("Você realmente quer excluir o livro " + livro.Titulo + "?", "", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
                 if (confirma == DialogResult.Yes)
                 {
                     LivroController.Excluir(livro);
                 }
             }
 
+        }
+
+        private void abrirToolStripButton_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+            }
         }
     }
 }

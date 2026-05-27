@@ -15,9 +15,17 @@ namespace ProjetoBiblioteca.View
 {
     public partial class FormLivroInserir : Form
     {
-        public FormLivroInserir()
+        //null se inserção, diferente de nulo se atualização
+        private int? idEditar;
+        public FormLivroInserir(int? idLivro = null)
         {
+            idEditar = idLivro;
             InitializeComponent();
+
+            if(idEditar != null)
+            {
+                this.Text = "Editar Livro";
+            }
         }
         public bool salvou = false;
         private void button1_Click(object sender, EventArgs e)
