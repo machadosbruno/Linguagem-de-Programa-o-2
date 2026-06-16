@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBCA97D1-D7DA-4B6E-8F69-A6EA53330FBB}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BBCA97D1-D7DA-4B6E-8F69-A6EA53330FBB}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\view\\paginainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\view\\paginainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\view\\paginainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\view\\paginainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\view\\criarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\view\\criarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\controller\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\controller\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\view\\criarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\view\\criarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|e:\\github\\linguagem-de-programa-o-2\\calendarios\\calendarios\\view\\criarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C5B803-1461-6973-6088-E759A8404537}|calendarios\\calendarios.csproj|solutionrelative:calendarios\\view\\criarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Form1.cs",
-              "RelativeDocumentMoniker": "calendarios\\Form1.cs",
-              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Form1.cs [Projeto]",
-              "RelativeToolTip": "calendarios\\Form1.cs [Projeto]",
+              "Title": "PaginaInicial.cs",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\PaginaInicial.cs",
+              "RelativeDocumentMoniker": "calendarios\\View\\PaginaInicial.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\PaginaInicial.cs",
+              "RelativeToolTip": "calendarios\\View\\PaginaInicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T02:05:37.296Z",
+              "WhenOpened": "2026-06-16T10:50:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginaInicial.cs [Projeto]",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\PaginaInicial.cs",
+              "RelativeDocumentMoniker": "calendarios\\View\\PaginaInicial.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\PaginaInicial.cs [Projeto]",
+              "RelativeToolTip": "calendarios\\View\\PaginaInicial.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T10:42:47.416Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "calendarios\\Controller\\UsuarioController.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "calendarios\\Controller\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:44:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Controller\\DefaultController.cs",
+              "RelativeDocumentMoniker": "calendarios\\Controller\\DefaultController.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Controller\\DefaultController.cs",
+              "RelativeToolTip": "calendarios\\Controller\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:43:27.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarUsuario.cs",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\CriarUsuario.cs",
+              "RelativeDocumentMoniker": "calendarios\\View\\CriarUsuario.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\CriarUsuario.cs",
+              "RelativeToolTip": "calendarios\\View\\CriarUsuario.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:41:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "calendarios\\Data\\DataContext.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\Data\\DataContext.cs",
+              "RelativeToolTip": "calendarios\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:53:29.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CriarUsuario.Designer.cs",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\CriarUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "calendarios\\View\\CriarUsuario.Designer.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\CriarUsuario.Designer.cs",
+              "RelativeToolTip": "calendarios\\View\\CriarUsuario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T09:51:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CriarUsuario.cs [Projeto]",
+              "DocumentMoniker": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\CriarUsuario.cs",
+              "RelativeDocumentMoniker": "calendarios\\View\\CriarUsuario.cs",
+              "ToolTip": "E:\\GitHub\\Linguagem-de-Programa-o-2\\calendarios\\calendarios\\View\\CriarUsuario.cs [Projeto]",
+              "RelativeToolTip": "calendarios\\View\\CriarUsuario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:45:38.233Z",
               "EditorCaption": " [Projeto]"
             }
           ]
