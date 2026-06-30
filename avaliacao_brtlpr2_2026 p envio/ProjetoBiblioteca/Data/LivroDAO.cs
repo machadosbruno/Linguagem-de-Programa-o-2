@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using ProjetoBiblioteca.Model;
 using System;
 using System.Collections.Generic;
@@ -45,11 +46,19 @@ namespace ProjetoBiblioteca.Data
         internal static List<Livro> Pesquisar(Livro livro)
         {
             using DataContext dc = new();
-            List <Livro> livros = dc.Livros.Include(p => p.Editora).Include(p => p.AutorA).Where(p => p.Titulo.Contains(livro.Titulo)).OrderBy(p => p.Titulo).ThenByDescending(p => p.DataPublicacao).ToList();
-            //List <Livro> livrosPorNomeAutor = dc.Livros.Include(p => p.Editora).Where(p => p.NomeAutor.Contains(livro.NomeAutor)).OrderBy(p => p.Titulo).ThenByDescending(p => p.DataPublicacao).ToList();
-            //List <Livro> livrosPorEmailAutor = dc.Livros.Include(p => p.Editora).Where(p => p.EmailAutor.Contains(livro.EmailAutor)).OrderBy(p => p.Titulo).ThenByDescending(p => p.DataPublicacao).ToList();
-            //livros.AddRange(livrosPorNomeAutor);
-            //livros.AddRange(livrosPorEmailAutor);
+            List<Livro> livros = new List<Livro>();
+            if (!livro.NomeAutor.IsNullOrEmpty())
+            {
+                livros = dc.Livros.Include(p => p.Editora).Where(p => p.NomeAutor.Contains(livro.NomeAutor)).OrderBy(p => p.Titulo).ThenByDescending(p => p.DataPublicacao).ToList();
+            }
+            else if (!livro.AutorA.Email.IsNullOrEmpty())
+            {
+                livros = dc.Livros.Include(p => p.Editora).Where(p => p.EmailAutor.Contains(livro.EmailAutor)).OrderBy(p => p.Titulo).ThenByDescending(p => p.DataPublicacao).ToList();
+            }
+            //if (!livro.Titulo.IsNullOrEmpty())
+            //{
+                livros = dc.Livros.Include(p => p.Editora).Where(p => p.Titulo.Contains(livro.Titulo)).OrderBy(p => p.Titulo).ThenByDescending(p => p.DataPublicacao).ToList();
+            //}
             return livros;
         }
 

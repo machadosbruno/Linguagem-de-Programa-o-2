@@ -1,4 +1,5 @@
-﻿using ProjetoBiblioteca.Controller;
+﻿using Microsoft.IdentityModel.Tokens;
+using ProjetoBiblioteca.Controller;
 using ProjetoBiblioteca.Model;
 using ProjetoBiblioteca.Utils;
 using System;
@@ -28,12 +29,21 @@ namespace ProjetoBiblioteca.View
         private void Pesquisar()
         {
             Livro livro = new Livro();
-            livro.AutorA = new Autor()
+            if (!txtAutor.Text.IsNullOrEmpty())
             {
-                Email = txtPesquisaTitulo.Text.Trim(),
-                Nome = txtPesquisaTitulo.Text.Trim()
-            };
-            livro.Titulo = txtPesquisaTitulo.Text.Trim();
+                if(txtAutor.Text.Contains("@"))
+                {
+                    livro.EmailAutor = txtAutor.Text.Trim();
+                }
+                else
+                {
+                    livro.NomeAutor = txtAutor.Text.Trim();
+                }
+
+            }
+            else if (!txtPesquisaTitulo.Text.IsNullOrEmpty()){
+                livro.Titulo = txtPesquisaTitulo.Text.Trim();
+            }
             
             List<Livro> resultado = LivroController.Pesquisar(livro);
             dataGridView1.DataSource = resultado;

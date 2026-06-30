@@ -1,4 +1,5 @@
-﻿using ProjetoBiblioteca.Data;
+﻿using Microsoft.IdentityModel.Tokens;
+using ProjetoBiblioteca.Data;
 using ProjetoBiblioteca.Model;
 using ProjetoBiblioteca.Utils;
 using System;
@@ -45,8 +46,12 @@ namespace ProjetoBiblioteca.Controller
             }
             else
             {
-                livro.Titulo = livro.Titulo.Trim();
-                //livro.AutorA.Nome = livro.AutorA.Nome.Trim();
+                if (!livro.Titulo.IsNullOrEmpty())
+                    livro.Titulo = livro.Titulo.Trim();
+                if (!livro.NomeAutor.IsNullOrEmpty())
+                    livro.NomeAutor = livro.NomeAutor.Trim();
+                if (!livro.EmailAutor.IsNullOrEmpty())
+                    livro.EmailAutor = livro.EmailAutor.Trim();
             }
             
             return LivroDAO.Pesquisar(livro);

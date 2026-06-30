@@ -33,20 +33,21 @@
             txtPesquisaTitulo = new TextBox();
             button1 = new Button();
             dataGridView1 = new DataGridView();
-            toolStrip1 = new ToolStrip();
-            novaToolStripButton = new ToolStripButton();
-            abrirToolStripButton = new ToolStripButton();
-            toolStripSeparator = new ToolStripSeparator();
-            recortarToolStripButton = new ToolStripButton();
-            bindingSource1 = new BindingSource(components);
             idDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             tituloDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             dataPublicacaoDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             nomeAutorDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             nomeEditoraDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            bindingSource1 = new BindingSource(components);
+            toolStrip1 = new ToolStrip();
+            novaToolStripButton = new ToolStripButton();
+            abrirToolStripButton = new ToolStripButton();
+            toolStripSeparator = new ToolStripSeparator();
+            recortarToolStripButton = new ToolStripButton();
+            txtAutor = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
-            toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
+            toolStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // txtPesquisaTitulo
@@ -54,8 +55,8 @@
             txtPesquisaTitulo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             txtPesquisaTitulo.Location = new Point(12, 28);
             txtPesquisaTitulo.Name = "txtPesquisaTitulo";
-            txtPesquisaTitulo.PlaceholderText = "Título a ser pesquisado";
-            txtPesquisaTitulo.Size = new Size(798, 35);
+            txtPesquisaTitulo.PlaceholderText = "Título";
+            txtPesquisaTitulo.Size = new Size(402, 35);
             txtPesquisaTitulo.TabIndex = 0;
             txtPesquisaTitulo.TextChanged += txtPesquisaTitulo_TextChanged;
             // 
@@ -89,6 +90,50 @@
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridView1.Size = new Size(942, 266);
             dataGridView1.TabIndex = 2;
+            // 
+            // idDataGridViewTextBoxColumn
+            // 
+            idDataGridViewTextBoxColumn.DataPropertyName = "Id";
+            idDataGridViewTextBoxColumn.HeaderText = "Id";
+            idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            idDataGridViewTextBoxColumn.ReadOnly = true;
+            idDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // tituloDataGridViewTextBoxColumn
+            // 
+            tituloDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            tituloDataGridViewTextBoxColumn.DataPropertyName = "Titulo";
+            tituloDataGridViewTextBoxColumn.HeaderText = "Titulo";
+            tituloDataGridViewTextBoxColumn.Name = "tituloDataGridViewTextBoxColumn";
+            tituloDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // dataPublicacaoDataGridViewTextBoxColumn
+            // 
+            dataPublicacaoDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            dataPublicacaoDataGridViewTextBoxColumn.DataPropertyName = "DataPublicacao";
+            dataPublicacaoDataGridViewTextBoxColumn.HeaderText = "DataPublicacao";
+            dataPublicacaoDataGridViewTextBoxColumn.Name = "dataPublicacaoDataGridViewTextBoxColumn";
+            dataPublicacaoDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // nomeAutorDataGridViewTextBoxColumn
+            // 
+            nomeAutorDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            nomeAutorDataGridViewTextBoxColumn.DataPropertyName = "NomeAutor";
+            nomeAutorDataGridViewTextBoxColumn.HeaderText = "NomeAutor";
+            nomeAutorDataGridViewTextBoxColumn.Name = "nomeAutorDataGridViewTextBoxColumn";
+            nomeAutorDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // nomeEditoraDataGridViewTextBoxColumn
+            // 
+            nomeEditoraDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            nomeEditoraDataGridViewTextBoxColumn.DataPropertyName = "NomeEditora";
+            nomeEditoraDataGridViewTextBoxColumn.HeaderText = "NomeEditora";
+            nomeEditoraDataGridViewTextBoxColumn.Name = "nomeEditoraDataGridViewTextBoxColumn";
+            nomeEditoraDataGridViewTextBoxColumn.ReadOnly = true;
+            // 
+            // bindingSource1
+            // 
+            bindingSource1.DataSource = typeof(Model.Livro);
             // 
             // toolStrip1
             // 
@@ -134,55 +179,21 @@
             recortarToolStripButton.Text = "E&xcluir";
             recortarToolStripButton.Click += recortarToolStripButton_Click;
             // 
-            // bindingSource1
+            // txtAutor
             // 
-            bindingSource1.DataSource = typeof(Model.Livro);
-            // 
-            // idDataGridViewTextBoxColumn
-            // 
-            idDataGridViewTextBoxColumn.DataPropertyName = "Id";
-            idDataGridViewTextBoxColumn.HeaderText = "Id";
-            idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
-            idDataGridViewTextBoxColumn.ReadOnly = true;
-            idDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // tituloDataGridViewTextBoxColumn
-            // 
-            tituloDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            tituloDataGridViewTextBoxColumn.DataPropertyName = "Titulo";
-            tituloDataGridViewTextBoxColumn.HeaderText = "Titulo";
-            tituloDataGridViewTextBoxColumn.Name = "tituloDataGridViewTextBoxColumn";
-            tituloDataGridViewTextBoxColumn.ReadOnly = true;
-            // 
-            // dataPublicacaoDataGridViewTextBoxColumn
-            // 
-            dataPublicacaoDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            dataPublicacaoDataGridViewTextBoxColumn.DataPropertyName = "DataPublicacao";
-            dataPublicacaoDataGridViewTextBoxColumn.HeaderText = "DataPublicacao";
-            dataPublicacaoDataGridViewTextBoxColumn.Name = "dataPublicacaoDataGridViewTextBoxColumn";
-            dataPublicacaoDataGridViewTextBoxColumn.ReadOnly = true;
-            // 
-            // nomeAutorDataGridViewTextBoxColumn
-            // 
-            nomeAutorDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            nomeAutorDataGridViewTextBoxColumn.DataPropertyName = "NomeAutor";
-            nomeAutorDataGridViewTextBoxColumn.HeaderText = "NomeAutor";
-            nomeAutorDataGridViewTextBoxColumn.Name = "nomeAutorDataGridViewTextBoxColumn";
-            nomeAutorDataGridViewTextBoxColumn.ReadOnly = true;
-            // 
-            // nomeEditoraDataGridViewTextBoxColumn
-            // 
-            nomeEditoraDataGridViewTextBoxColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
-            nomeEditoraDataGridViewTextBoxColumn.DataPropertyName = "NomeEditora";
-            nomeEditoraDataGridViewTextBoxColumn.HeaderText = "NomeEditora";
-            nomeEditoraDataGridViewTextBoxColumn.Name = "nomeEditoraDataGridViewTextBoxColumn";
-            nomeEditoraDataGridViewTextBoxColumn.ReadOnly = true;
+            txtAutor.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            txtAutor.Location = new Point(420, 27);
+            txtAutor.Name = "txtAutor";
+            txtAutor.PlaceholderText = "Autor";
+            txtAutor.Size = new Size(390, 35);
+            txtAutor.TabIndex = 4;
             // 
             // FormLivroPesquisar
             // 
             AutoScaleDimensions = new SizeF(12F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(966, 347);
+            Controls.Add(txtAutor);
             Controls.Add(toolStrip1);
             Controls.Add(dataGridView1);
             Controls.Add(button1);
@@ -194,9 +205,9 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Livros";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
             toolStrip1.ResumeLayout(false);
             toolStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -217,5 +228,6 @@
         private DataGridViewTextBoxColumn nomeAutorDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn nomeEditoraDataGridViewTextBoxColumn;
         private BindingSource bindingSource1;
+        private TextBox txtAutor;
     }
 }
