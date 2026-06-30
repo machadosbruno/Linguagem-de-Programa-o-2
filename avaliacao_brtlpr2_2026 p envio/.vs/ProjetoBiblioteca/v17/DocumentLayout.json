@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\avaliacao_brtlpr2_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivropesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\controller\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\data\\livrodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\data\\livrodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formlivroinserir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\view\\formautorpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formautorpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|y:\\avaliacao_brtlpr2_2026\\projetobiblioteca\\view\\formautorpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1FBA402-44D9-4F6F-85ED-BB60E2CD8EFA}|ProjetoBiblioteca\\ProjetoBiblioteca.csproj|solutionrelative:projetobiblioteca\\view\\formautorpesquisar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLivroInserir.cs [Projeto]",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroInserir.cs [Projeto]",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:02:42.108Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controller\\LivroController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:51:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Controller\\AutorController.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Controller\\AutorController.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Controller\\AutorController.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Controller\\AutorController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:47:15.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Model\\Livro.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Model\\Livro.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Model\\Livro.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Model\\Livro.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:31:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLivroPesquisar.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:32:15.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLivroPesquisar.cs [Projeto]",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroPesquisar.cs [Projeto]",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroPesquisar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:28:42.328Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroDAO.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\Data\\LivroDAO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T00:23:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLivroInserir.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormLivroInserir.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwH0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:02:50.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAutorPesquisar.cs",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormAutorPesquisar.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormAutorPesquisar.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormAutorPesquisar.cs",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormAutorPesquisar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:59:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAutorPesquisar.cs [Projeto]",
+              "DocumentMoniker": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormAutorPesquisar.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioteca\\View\\FormAutorPesquisar.cs",
+              "ToolTip": "Y:\\avaliacao_brtlpr2_2026\\ProjetoBiblioteca\\View\\FormAutorPesquisar.cs [Projeto]",
+              "RelativeToolTip": "ProjetoBiblioteca\\View\\FormAutorPesquisar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T23:55:19.094Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
